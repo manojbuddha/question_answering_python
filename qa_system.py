@@ -260,7 +260,7 @@ def get_answer(query):
 
 months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
 
-query = str(input(f"*** This is a QA system developed by Manoj Buddha. It will try to answer "
+query = str(input(f"*** This is a QA system developed by Manoj Buddha. It will answer "
                   "questions that start with Who, "
                   "What, When or Where. Enter \"exit\" "
                   "to leave the program."+"\n"+"=?>"))
